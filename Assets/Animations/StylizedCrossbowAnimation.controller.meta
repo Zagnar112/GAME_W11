@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 35574a8d67322f34e8729b47e8e1ac66
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243342
+  packageName: Stylized Crossbow
+  packageVersion: 1.0
+  assetPath: Assets/miaumori/StylizedCrossbow/StylizedCrossbowAnimation.controller
+  uploadId: 553256
